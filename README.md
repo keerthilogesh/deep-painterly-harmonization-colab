@@ -1,3 +1,5 @@
+# Look at the notebook deep-painterly-harmonization_colab.ipynb to see how to run the examples present in the data folder
+
 # deep-painterly-harmonization
 Code and data for paper "[Deep Painterly Harmonization](https://arxiv.org/abs/1804.03189)"  
 
